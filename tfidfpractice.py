@@ -8,3 +8,4 @@ bagOfWordsA = documentA.split(' ')
 bagOfWordsB = documentB.split(' ')
 
 print (type(bagOfWordsA))
+print (bagOfWordsA)
